@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hotline</string>
+
+    <string name="welcome_text">Welcome to Hotline Demo</string>
+    <string name="button_login">Login</string>
+    <string name="button_registration">Register Yourself</string>
+    <string name="forgot_password">Forgot Password ?</string>
+</resources>
