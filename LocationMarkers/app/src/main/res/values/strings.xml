@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationMarkers</string>
+
+    <string name="text_add">Add location details</string>
+    <string name="button_add">Add Location</string>
+    <string name="menu_map">Map</string>
+    <string name="title_activity_show_location">Map</string>
+</resources>
